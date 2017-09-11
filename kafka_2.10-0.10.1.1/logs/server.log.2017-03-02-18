@@ -1,0 +1,8 @@
+[2017-03-02 18:04:10,184] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-03-02 18:11:03,480] INFO [GroupCoordinator 0]: Preparing to restabilize group consumers with old generation 20 (kafka.coordinator.GroupCoordinator)
+[2017-03-02 18:11:03,480] INFO [GroupCoordinator 0]: Group consumers with generation 21 is now empty (kafka.coordinator.GroupCoordinator)
+[2017-03-02 18:14:10,090] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-03-02 18:24:10,018] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-03-02 18:34:10,033] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-03-02 18:44:10,116] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-03-02 18:54:10,115] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)

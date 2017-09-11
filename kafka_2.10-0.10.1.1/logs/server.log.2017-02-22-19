@@ -1,0 +1,6 @@
+[2017-02-22 19:07:01,345] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-02-22 19:17:01,331] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-02-22 19:27:01,363] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-02-22 19:37:01,402] INFO [Group Metadata Manager on Broker 0]: Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.GroupMetadataManager)
+[2017-02-22 19:41:14,266] INFO [GroupCoordinator 0]: Preparing to restabilize group helloworld with old generation 7 (kafka.coordinator.GroupCoordinator)
+[2017-02-22 19:41:14,267] INFO [GroupCoordinator 0]: Group helloworld with generation 8 is now empty (kafka.coordinator.GroupCoordinator)

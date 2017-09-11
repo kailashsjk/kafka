@@ -1,0 +1,3 @@
+com\springboot\kafka\Producer\models\SenderConfig.class
+com\springboot\kafka\Producer\SpringBootKafkaProducerApplication.class
+com\springboot\kafka\Producer\models\Sender.class
